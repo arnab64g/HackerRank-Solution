@@ -1,0 +1,32 @@
+C:\Users\arnab\OneDrive\Documents\anagram\bin\Debug\net5.0\anagram.exe
+c:\Users\arnab\OneDrive\Documents\anagram\bin\Debug\net5.0\anagram.deps.json
+c:\Users\arnab\OneDrive\Documents\anagram\bin\Debug\net5.0\anagram.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\anagram\bin\Debug\net5.0\anagram.runtimeconfig.dev.json
+C:\Users\arnab\OneDrive\Documents\anagram\bin\Debug\net5.0\anagram.dll
+c:\Users\arnab\OneDrive\Documents\anagram\bin\Debug\net5.0\ref\anagram.dll
+C:\Users\arnab\OneDrive\Documents\anagram\bin\Debug\net5.0\anagram.pdb
+C:\Users\arnab\OneDrive\Documents\anagram\obj\Debug\net5.0\anagram.csprojAssemblyReference.cache
+C:\Users\arnab\OneDrive\Documents\anagram\obj\Debug\net5.0\anagram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\OneDrive\Documents\anagram\obj\Debug\net5.0\anagram.AssemblyInfoInputs.cache
+C:\Users\arnab\OneDrive\Documents\anagram\obj\Debug\net5.0\anagram.AssemblyInfo.cs
+C:\Users\arnab\OneDrive\Documents\anagram\obj\Debug\net5.0\anagram.csproj.CoreCompileInputs.cache
+C:\Users\arnab\OneDrive\Documents\anagram\obj\Debug\net5.0\anagram.dll
+C:\Users\arnab\OneDrive\Documents\anagram\obj\Debug\net5.0\ref\anagram.dll
+C:\Users\arnab\OneDrive\Documents\anagram\obj\Debug\net5.0\anagram.pdb
+c:\Users\arnab\OneDrive\Documents\anagram\obj\Debug\net5.0\anagram.genruntimeconfig.cache
+D:\Program Extra\VS\anagram\bin\Debug\net5.0\anagram.exe
+d:\Program Extra\VS\anagram\bin\Debug\net5.0\anagram.deps.json
+d:\Program Extra\VS\anagram\bin\Debug\net5.0\anagram.runtimeconfig.json
+d:\Program Extra\VS\anagram\bin\Debug\net5.0\anagram.runtimeconfig.dev.json
+D:\Program Extra\VS\anagram\bin\Debug\net5.0\anagram.dll
+d:\Program Extra\VS\anagram\bin\Debug\net5.0\ref\anagram.dll
+D:\Program Extra\VS\anagram\bin\Debug\net5.0\anagram.pdb
+D:\Program Extra\VS\anagram\obj\Debug\net5.0\anagram.csprojAssemblyReference.cache
+D:\Program Extra\VS\anagram\obj\Debug\net5.0\anagram.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Extra\VS\anagram\obj\Debug\net5.0\anagram.AssemblyInfoInputs.cache
+D:\Program Extra\VS\anagram\obj\Debug\net5.0\anagram.AssemblyInfo.cs
+D:\Program Extra\VS\anagram\obj\Debug\net5.0\anagram.csproj.CoreCompileInputs.cache
+D:\Program Extra\VS\anagram\obj\Debug\net5.0\anagram.dll
+D:\Program Extra\VS\anagram\obj\Debug\net5.0\ref\anagram.dll
+D:\Program Extra\VS\anagram\obj\Debug\net5.0\anagram.pdb
+d:\Program Extra\VS\anagram\obj\Debug\net5.0\anagram.genruntimeconfig.cache
