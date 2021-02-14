@@ -1,0 +1,16 @@
+d:\Program Extra\VS\MinimumSwap\MinimumSwap\bin\Debug\net5.0\MinimumSwap.exe
+d:\Program Extra\VS\MinimumSwap\MinimumSwap\bin\Debug\net5.0\MinimumSwap.deps.json
+d:\Program Extra\VS\MinimumSwap\MinimumSwap\bin\Debug\net5.0\MinimumSwap.runtimeconfig.json
+d:\Program Extra\VS\MinimumSwap\MinimumSwap\bin\Debug\net5.0\MinimumSwap.runtimeconfig.dev.json
+d:\Program Extra\VS\MinimumSwap\MinimumSwap\bin\Debug\net5.0\MinimumSwap.dll
+d:\Program Extra\VS\MinimumSwap\MinimumSwap\bin\Debug\net5.0\ref\MinimumSwap.dll
+d:\Program Extra\VS\MinimumSwap\MinimumSwap\bin\Debug\net5.0\MinimumSwap.pdb
+d:\Program Extra\VS\MinimumSwap\MinimumSwap\obj\Debug\net5.0\MinimumSwap.csprojAssemblyReference.cache
+d:\Program Extra\VS\MinimumSwap\MinimumSwap\obj\Debug\net5.0\MinimumSwap.GeneratedMSBuildEditorConfig.editorconfig
+d:\Program Extra\VS\MinimumSwap\MinimumSwap\obj\Debug\net5.0\MinimumSwap.AssemblyInfoInputs.cache
+d:\Program Extra\VS\MinimumSwap\MinimumSwap\obj\Debug\net5.0\MinimumSwap.AssemblyInfo.cs
+d:\Program Extra\VS\MinimumSwap\MinimumSwap\obj\Debug\net5.0\MinimumSwap.csproj.CoreCompileInputs.cache
+d:\Program Extra\VS\MinimumSwap\MinimumSwap\obj\Debug\net5.0\MinimumSwap.dll
+d:\Program Extra\VS\MinimumSwap\MinimumSwap\obj\Debug\net5.0\ref\MinimumSwap.dll
+d:\Program Extra\VS\MinimumSwap\MinimumSwap\obj\Debug\net5.0\MinimumSwap.pdb
+d:\Program Extra\VS\MinimumSwap\MinimumSwap\obj\Debug\net5.0\MinimumSwap.genruntimeconfig.cache

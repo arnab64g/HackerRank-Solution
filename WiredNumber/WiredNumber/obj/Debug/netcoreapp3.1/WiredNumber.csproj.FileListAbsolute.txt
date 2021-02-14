@@ -1,0 +1,13 @@
+C:\Users\arnab\OneDrive\Documents\WiredNumber\WiredNumber\bin\Debug\netcoreapp3.1\WiredNumber.exe
+C:\Users\arnab\OneDrive\Documents\WiredNumber\WiredNumber\bin\Debug\netcoreapp3.1\WiredNumber.deps.json
+C:\Users\arnab\OneDrive\Documents\WiredNumber\WiredNumber\bin\Debug\netcoreapp3.1\WiredNumber.runtimeconfig.json
+C:\Users\arnab\OneDrive\Documents\WiredNumber\WiredNumber\bin\Debug\netcoreapp3.1\WiredNumber.runtimeconfig.dev.json
+C:\Users\arnab\OneDrive\Documents\WiredNumber\WiredNumber\bin\Debug\netcoreapp3.1\WiredNumber.dll
+C:\Users\arnab\OneDrive\Documents\WiredNumber\WiredNumber\bin\Debug\netcoreapp3.1\WiredNumber.pdb
+C:\Users\arnab\OneDrive\Documents\WiredNumber\WiredNumber\obj\Debug\netcoreapp3.1\WiredNumber.csprojAssemblyReference.cache
+C:\Users\arnab\OneDrive\Documents\WiredNumber\WiredNumber\obj\Debug\netcoreapp3.1\WiredNumber.AssemblyInfoInputs.cache
+C:\Users\arnab\OneDrive\Documents\WiredNumber\WiredNumber\obj\Debug\netcoreapp3.1\WiredNumber.AssemblyInfo.cs
+C:\Users\arnab\OneDrive\Documents\WiredNumber\WiredNumber\obj\Debug\netcoreapp3.1\WiredNumber.csproj.CoreCompileInputs.cache
+C:\Users\arnab\OneDrive\Documents\WiredNumber\WiredNumber\obj\Debug\netcoreapp3.1\WiredNumber.dll
+C:\Users\arnab\OneDrive\Documents\WiredNumber\WiredNumber\obj\Debug\netcoreapp3.1\WiredNumber.pdb
+C:\Users\arnab\OneDrive\Documents\WiredNumber\WiredNumber\obj\Debug\netcoreapp3.1\WiredNumber.genruntimeconfig.cache

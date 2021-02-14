@@ -1,0 +1,13 @@
+C:\Users\Arnab\Documents\PrintArray\PrintArray\bin\Debug\netcoreapp3.1\PrintArray.exe
+C:\Users\Arnab\Documents\PrintArray\PrintArray\bin\Debug\netcoreapp3.1\PrintArray.deps.json
+C:\Users\Arnab\Documents\PrintArray\PrintArray\bin\Debug\netcoreapp3.1\PrintArray.runtimeconfig.json
+C:\Users\Arnab\Documents\PrintArray\PrintArray\bin\Debug\netcoreapp3.1\PrintArray.runtimeconfig.dev.json
+C:\Users\Arnab\Documents\PrintArray\PrintArray\bin\Debug\netcoreapp3.1\PrintArray.dll
+C:\Users\Arnab\Documents\PrintArray\PrintArray\bin\Debug\netcoreapp3.1\PrintArray.pdb
+C:\Users\Arnab\Documents\PrintArray\PrintArray\obj\Debug\netcoreapp3.1\PrintArray.csprojAssemblyReference.cache
+C:\Users\Arnab\Documents\PrintArray\PrintArray\obj\Debug\netcoreapp3.1\PrintArray.AssemblyInfoInputs.cache
+C:\Users\Arnab\Documents\PrintArray\PrintArray\obj\Debug\netcoreapp3.1\PrintArray.AssemblyInfo.cs
+C:\Users\Arnab\Documents\PrintArray\PrintArray\obj\Debug\netcoreapp3.1\PrintArray.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\Documents\PrintArray\PrintArray\obj\Debug\netcoreapp3.1\PrintArray.dll
+C:\Users\Arnab\Documents\PrintArray\PrintArray\obj\Debug\netcoreapp3.1\PrintArray.pdb
+C:\Users\Arnab\Documents\PrintArray\PrintArray\obj\Debug\netcoreapp3.1\PrintArray.genruntimeconfig.cache
