@@ -1,0 +1,13 @@
+C:\Users\Arnab\Documents\Pangrams\Pangrams\bin\Debug\netcoreapp3.1\Pangrams.exe
+C:\Users\Arnab\Documents\Pangrams\Pangrams\bin\Debug\netcoreapp3.1\Pangrams.deps.json
+C:\Users\Arnab\Documents\Pangrams\Pangrams\bin\Debug\netcoreapp3.1\Pangrams.runtimeconfig.json
+C:\Users\Arnab\Documents\Pangrams\Pangrams\bin\Debug\netcoreapp3.1\Pangrams.runtimeconfig.dev.json
+C:\Users\Arnab\Documents\Pangrams\Pangrams\bin\Debug\netcoreapp3.1\Pangrams.dll
+C:\Users\Arnab\Documents\Pangrams\Pangrams\bin\Debug\netcoreapp3.1\Pangrams.pdb
+C:\Users\Arnab\Documents\Pangrams\Pangrams\obj\Debug\netcoreapp3.1\Pangrams.csprojAssemblyReference.cache
+C:\Users\Arnab\Documents\Pangrams\Pangrams\obj\Debug\netcoreapp3.1\Pangrams.AssemblyInfoInputs.cache
+C:\Users\Arnab\Documents\Pangrams\Pangrams\obj\Debug\netcoreapp3.1\Pangrams.AssemblyInfo.cs
+C:\Users\Arnab\Documents\Pangrams\Pangrams\obj\Debug\netcoreapp3.1\Pangrams.csproj.CoreCompileInputs.cache
+C:\Users\Arnab\Documents\Pangrams\Pangrams\obj\Debug\netcoreapp3.1\Pangrams.dll
+C:\Users\Arnab\Documents\Pangrams\Pangrams\obj\Debug\netcoreapp3.1\Pangrams.pdb
+C:\Users\Arnab\Documents\Pangrams\Pangrams\obj\Debug\netcoreapp3.1\Pangrams.genruntimeconfig.cache
