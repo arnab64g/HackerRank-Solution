@@ -1,0 +1,16 @@
+C:\Users\arnab\OneDrive\Documents\MaxLuck\bin\Debug\net5.0\MaxLuck.exe
+c:\Users\arnab\OneDrive\Documents\MaxLuck\bin\Debug\net5.0\MaxLuck.deps.json
+c:\Users\arnab\OneDrive\Documents\MaxLuck\bin\Debug\net5.0\MaxLuck.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\MaxLuck\bin\Debug\net5.0\MaxLuck.runtimeconfig.dev.json
+C:\Users\arnab\OneDrive\Documents\MaxLuck\bin\Debug\net5.0\MaxLuck.dll
+c:\Users\arnab\OneDrive\Documents\MaxLuck\bin\Debug\net5.0\ref\MaxLuck.dll
+C:\Users\arnab\OneDrive\Documents\MaxLuck\bin\Debug\net5.0\MaxLuck.pdb
+C:\Users\arnab\OneDrive\Documents\MaxLuck\obj\Debug\net5.0\MaxLuck.csprojAssemblyReference.cache
+C:\Users\arnab\OneDrive\Documents\MaxLuck\obj\Debug\net5.0\MaxLuck.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\OneDrive\Documents\MaxLuck\obj\Debug\net5.0\MaxLuck.AssemblyInfoInputs.cache
+C:\Users\arnab\OneDrive\Documents\MaxLuck\obj\Debug\net5.0\MaxLuck.AssemblyInfo.cs
+C:\Users\arnab\OneDrive\Documents\MaxLuck\obj\Debug\net5.0\MaxLuck.csproj.CoreCompileInputs.cache
+C:\Users\arnab\OneDrive\Documents\MaxLuck\obj\Debug\net5.0\MaxLuck.dll
+C:\Users\arnab\OneDrive\Documents\MaxLuck\obj\Debug\net5.0\ref\MaxLuck.dll
+C:\Users\arnab\OneDrive\Documents\MaxLuck\obj\Debug\net5.0\MaxLuck.pdb
+c:\Users\arnab\OneDrive\Documents\MaxLuck\obj\Debug\net5.0\MaxLuck.genruntimeconfig.cache

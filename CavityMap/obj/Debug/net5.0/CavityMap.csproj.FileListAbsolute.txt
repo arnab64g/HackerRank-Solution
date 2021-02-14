@@ -1,0 +1,16 @@
+C:\Users\arnab\OneDrive\Documents\CavityMap\obj\Debug\net5.0\CavityMap.csprojAssemblyReference.cache
+C:\Users\arnab\OneDrive\Documents\CavityMap\obj\Debug\net5.0\CavityMap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\OneDrive\Documents\CavityMap\obj\Debug\net5.0\CavityMap.AssemblyInfoInputs.cache
+C:\Users\arnab\OneDrive\Documents\CavityMap\obj\Debug\net5.0\CavityMap.AssemblyInfo.cs
+C:\Users\arnab\OneDrive\Documents\CavityMap\obj\Debug\net5.0\CavityMap.csproj.CoreCompileInputs.cache
+C:\Users\arnab\OneDrive\Documents\CavityMap\bin\Debug\net5.0\CavityMap.exe
+c:\Users\arnab\OneDrive\Documents\CavityMap\bin\Debug\net5.0\CavityMap.deps.json
+c:\Users\arnab\OneDrive\Documents\CavityMap\bin\Debug\net5.0\CavityMap.runtimeconfig.json
+c:\Users\arnab\OneDrive\Documents\CavityMap\bin\Debug\net5.0\CavityMap.runtimeconfig.dev.json
+C:\Users\arnab\OneDrive\Documents\CavityMap\bin\Debug\net5.0\CavityMap.dll
+c:\Users\arnab\OneDrive\Documents\CavityMap\bin\Debug\net5.0\ref\CavityMap.dll
+C:\Users\arnab\OneDrive\Documents\CavityMap\bin\Debug\net5.0\CavityMap.pdb
+C:\Users\arnab\OneDrive\Documents\CavityMap\obj\Debug\net5.0\CavityMap.dll
+C:\Users\arnab\OneDrive\Documents\CavityMap\obj\Debug\net5.0\ref\CavityMap.dll
+C:\Users\arnab\OneDrive\Documents\CavityMap\obj\Debug\net5.0\CavityMap.pdb
+c:\Users\arnab\OneDrive\Documents\CavityMap\obj\Debug\net5.0\CavityMap.genruntimeconfig.cache

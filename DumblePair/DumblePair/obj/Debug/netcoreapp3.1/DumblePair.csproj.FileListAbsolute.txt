@@ -1,0 +1,13 @@
+C:\Users\arnab\OneDrive\Documents\DumblePair\DumblePair\bin\Debug\netcoreapp3.1\DumblePair.exe
+C:\Users\arnab\OneDrive\Documents\DumblePair\DumblePair\bin\Debug\netcoreapp3.1\DumblePair.deps.json
+C:\Users\arnab\OneDrive\Documents\DumblePair\DumblePair\bin\Debug\netcoreapp3.1\DumblePair.runtimeconfig.json
+C:\Users\arnab\OneDrive\Documents\DumblePair\DumblePair\bin\Debug\netcoreapp3.1\DumblePair.runtimeconfig.dev.json
+C:\Users\arnab\OneDrive\Documents\DumblePair\DumblePair\bin\Debug\netcoreapp3.1\DumblePair.dll
+C:\Users\arnab\OneDrive\Documents\DumblePair\DumblePair\bin\Debug\netcoreapp3.1\DumblePair.pdb
+C:\Users\arnab\OneDrive\Documents\DumblePair\DumblePair\obj\Debug\netcoreapp3.1\DumblePair.csprojAssemblyReference.cache
+C:\Users\arnab\OneDrive\Documents\DumblePair\DumblePair\obj\Debug\netcoreapp3.1\DumblePair.AssemblyInfoInputs.cache
+C:\Users\arnab\OneDrive\Documents\DumblePair\DumblePair\obj\Debug\netcoreapp3.1\DumblePair.AssemblyInfo.cs
+C:\Users\arnab\OneDrive\Documents\DumblePair\DumblePair\obj\Debug\netcoreapp3.1\DumblePair.csproj.CoreCompileInputs.cache
+C:\Users\arnab\OneDrive\Documents\DumblePair\DumblePair\obj\Debug\netcoreapp3.1\DumblePair.dll
+C:\Users\arnab\OneDrive\Documents\DumblePair\DumblePair\obj\Debug\netcoreapp3.1\DumblePair.pdb
+C:\Users\arnab\OneDrive\Documents\DumblePair\DumblePair\obj\Debug\netcoreapp3.1\DumblePair.genruntimeconfig.cache
