@@ -1,0 +1,15 @@
+C:\Users\arnab\OneDrive\Documents\LeftRotation\bin\Debug\net6.0\LeftRotation.exe
+c:\Users\arnab\OneDrive\Documents\LeftRotation\bin\Debug\net6.0\LeftRotation.deps.json
+c:\Users\arnab\OneDrive\Documents\LeftRotation\bin\Debug\net6.0\LeftRotation.runtimeconfig.json
+C:\Users\arnab\OneDrive\Documents\LeftRotation\bin\Debug\net6.0\LeftRotation.dll
+c:\Users\arnab\OneDrive\Documents\LeftRotation\bin\Debug\net6.0\ref\LeftRotation.dll
+C:\Users\arnab\OneDrive\Documents\LeftRotation\bin\Debug\net6.0\LeftRotation.pdb
+C:\Users\arnab\OneDrive\Documents\LeftRotation\obj\Debug\net6.0\LeftRotation.csproj.AssemblyReference.cache
+C:\Users\arnab\OneDrive\Documents\LeftRotation\obj\Debug\net6.0\LeftRotation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\OneDrive\Documents\LeftRotation\obj\Debug\net6.0\LeftRotation.AssemblyInfoInputs.cache
+C:\Users\arnab\OneDrive\Documents\LeftRotation\obj\Debug\net6.0\LeftRotation.AssemblyInfo.cs
+C:\Users\arnab\OneDrive\Documents\LeftRotation\obj\Debug\net6.0\LeftRotation.csproj.CoreCompileInputs.cache
+C:\Users\arnab\OneDrive\Documents\LeftRotation\obj\Debug\net6.0\LeftRotation.dll
+C:\Users\arnab\OneDrive\Documents\LeftRotation\obj\Debug\net6.0\ref\LeftRotation.dll
+C:\Users\arnab\OneDrive\Documents\LeftRotation\obj\Debug\net6.0\LeftRotation.pdb
+c:\Users\arnab\OneDrive\Documents\LeftRotation\obj\Debug\net6.0\LeftRotation.genruntimeconfig.cache
