@@ -1,0 +1,15 @@
+C:\Users\arnab\OneDrive\Documents\SparseArrays\bin\Debug\net6.0\SparseArrays.exe
+c:\Users\arnab\OneDrive\Documents\SparseArrays\bin\Debug\net6.0\SparseArrays.deps.json
+c:\Users\arnab\OneDrive\Documents\SparseArrays\bin\Debug\net6.0\SparseArrays.runtimeconfig.json
+C:\Users\arnab\OneDrive\Documents\SparseArrays\bin\Debug\net6.0\SparseArrays.dll
+c:\Users\arnab\OneDrive\Documents\SparseArrays\bin\Debug\net6.0\ref\SparseArrays.dll
+C:\Users\arnab\OneDrive\Documents\SparseArrays\bin\Debug\net6.0\SparseArrays.pdb
+C:\Users\arnab\OneDrive\Documents\SparseArrays\obj\Debug\net6.0\SparseArrays.csproj.AssemblyReference.cache
+C:\Users\arnab\OneDrive\Documents\SparseArrays\obj\Debug\net6.0\SparseArrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnab\OneDrive\Documents\SparseArrays\obj\Debug\net6.0\SparseArrays.AssemblyInfoInputs.cache
+C:\Users\arnab\OneDrive\Documents\SparseArrays\obj\Debug\net6.0\SparseArrays.AssemblyInfo.cs
+C:\Users\arnab\OneDrive\Documents\SparseArrays\obj\Debug\net6.0\SparseArrays.csproj.CoreCompileInputs.cache
+C:\Users\arnab\OneDrive\Documents\SparseArrays\obj\Debug\net6.0\SparseArrays.dll
+C:\Users\arnab\OneDrive\Documents\SparseArrays\obj\Debug\net6.0\ref\SparseArrays.dll
+C:\Users\arnab\OneDrive\Documents\SparseArrays\obj\Debug\net6.0\SparseArrays.pdb
+c:\Users\arnab\OneDrive\Documents\SparseArrays\obj\Debug\net6.0\SparseArrays.genruntimeconfig.cache
