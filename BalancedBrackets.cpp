@@ -3,20 +3,17 @@
 using namespace std;
 int main()
 {
-    
-    int n;
-    
+    int n;   
     cin >> n;
     while (n--)
     {
         stack<int> s;
         int len;
-    string str;
-    bool found, res;
+        string str;
+        bool found, res;
         cin >> str;
         len = str.length();
         res = true;
-    
         for (int i = 0; i < len; i++)
         {
             if(str[i] == '{' || str[i] == '(' || str[i] == '[')
@@ -39,13 +36,10 @@ int main()
                 res = false;
                 break;
             }
-            
         }
-        
         if(res && s.empty())
             cout << "YES" << endl;
         else cout << "NO" << endl;
-        
     }
     return 0;
 }
