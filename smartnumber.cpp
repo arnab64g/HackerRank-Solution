@@ -1,8 +1,6 @@
 #include <iostream>
 #include <cmath>
-
 using namespace std;
-
 bool result(int number){
     int sqr = sqrt((float)number);
     if (sqr * sqr == number)
@@ -11,7 +9,6 @@ bool result(int number){
     }
     else return false;
 }
-
 int main(){
     int n;
     cin>>n;
@@ -24,4 +21,3 @@ int main(){
     }
     return 0;
 }
-    
